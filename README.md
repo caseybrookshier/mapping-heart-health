@@ -86,7 +86,7 @@ mapping-heart-health/
 ## 🚀 How to Run (Mac)
 
 ```bash
-git clone https://github.com/CrassSax7/mapping-heart-health.git
+git clone https://github.com/caseybrookshier/mapping-heart-health.git
 cd mapping-heart-health
 
 python3 -m venv venv
@@ -104,7 +104,7 @@ python scripts/run_analysis.py
 ## 🚀 How to Run (Windows)
 
 ```bash
-git clone https://github.com/CrassSax7/mapping-heart-health.git
+git clone https://github.com/caseybrookshier/mapping-heart-health.git
 cd mapping-heart-health
 
 python -m venv venv
